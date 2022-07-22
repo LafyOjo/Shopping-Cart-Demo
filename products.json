@@ -1,0 +1,140 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Tropic Palm Estate",
+        "price": 1000000.00,
+        "image": { "fields": { "file": { "url": "./images/houses-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Vintage Tiled Pavillion Estate",
+        "price": 400000.00,
+        "image": { "fields": { "file": { "url": "./images/houses-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Stone Maltrop Estate",
+        "price": 1100000.00,
+        "image": { "fields": { "file": { "url": "./images/houses-3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Countage Estate",
+        "price": 800000.00,
+        "image": { "fields": { "file": { "url": "./images/houses-4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Gatsby Sea Mansion Estate",
+        "price": 1200000.00,
+        "image": { "fields": { "file": { "url": "./images/houses-5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Presidential Estate",
+        "price": 2300000.00,
+        "image": { "fields": { "file": { "url": "./images/houses-8.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Corner-Croftly Estate",
+        "price": 1500000.00,
+        "image": { "fields": { "file": { "url": "./images/houses-9.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "The Ivy League Cottage Estate",
+        "price": 900000.00,
+        "image": { "fields": { "file": { "url": "./images/houses-10.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Doves Retention Estate",
+        "price": 950000.00,
+        "image": { "fields": { "file": { "url": "./images/houses-11.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Sunnyside Estate",
+        "price": 1100000.00,
+        "image": { "fields": { "file": { "url": "./images/houses-12.jpg" } } }
+      }
+    },
+      {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Petronas Estate",
+        "price": 1300000.00,
+        "image": { "fields": { "file": { "url": "./images/houses-13.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Idaho Seaside Estate",
+        "price": 500000.00,
+        "image": { "fields": { "file": { "url": "./images/houses-14.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "Jin Mao Modern",
+        "price": 1500000.00,
+        "image": { "fields": { "file": { "url": "./images/houses-15.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "Shun Hing Estate",
+        "price": 600000.00,
+        "image": { "fields": { "file": { "url": "./images/houses-16.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "Pearl Riverside Estate",
+        "price": 500000.00,
+        "image": { "fields": { "file": { "url": "./images/houses-17.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "Mirabelle Orchard Estate",
+        "price": 900000.00,
+        "image": { "fields": { "file": { "url": "./images/houses-20.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "17" },
+      "fields": {
+        "title": "Woodhay Lodge Estate",
+        "price": 800000.00,
+        "image": { "fields": { "file": { "url": "./images/houses-21.jpg" } } }
+      }
+    }
+  ]
+}
